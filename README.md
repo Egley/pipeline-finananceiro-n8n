@@ -1,0 +1,1 @@
+# pipeline-finananceiro-n8n
