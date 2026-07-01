@@ -1,4 +1,4 @@
-## pipeline-finananceiro-n8n
+## pipeline-finananceiro
 # 💸 Pipeline Financeiro Automatizado — N8N + Gmail + Google Sheets
 
 Automação completa de lançamentos financeiros pessoais: do extrato bancário à planilha categorizada, sem intervenção manual.
